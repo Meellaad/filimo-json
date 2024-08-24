@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "پالایشگاه",
+    "image": "../../../assets/images/popular-movies/movie1_card.jpg",
+    "cover": "../../../assets/images/popular-movies/movie1_cover.jpg",
+    "director": "مهرداد خوشبخت",
+    "genre": [" درام ", " جنگی "],
+    "score": "۴.۶",
+    "description": "در سال ۱۳۵۹ همزمان با جنگ تحمیلی، تعدادی از مهندسین پالایشگاه نفت آبادان در تلاش هستند با امکانات و تجهیزاتی که در دا...",
+    "info": "بالای ۱۵ سال - یک ساعت و ۴۹ دقیقه - محصول ایران - ۱۴۰۱ - کیفیت HD"
+  },
+  {
+    "id": "2",
+    "title": "به رنگ ارغوان",
+    "image": "../../../assets/images/popular-movies/movie2_card.jpg",
+    "cover": "../../../assets/images/popular-movies/movie2_cover.jpg",
+    "director": "ابراهیم حاتمی کیا",
+    "genre": [" درام ", " عاشقانه "],
+    "score": "۶.۴",
+    "description": "«شفق» یکی از اعضای گروه سیاسی که اوائل انقلاب از ایران خارج شده، پس از سال ها تصمیم می گیرد برای دیدن دخترش «ارغوان»...",
+    "info": "بالای ۱۸ سال - یک ساعت و ۳۴ دقیقه - محصول ایران - ۱۳۸۳"
+  },
+  {
+    "id": "3",
+    "title": "آهو",
+    "image": "../../../assets/images/popular-movies/movie3_card.jpg",
+    "cover": "../../../assets/images/popular-movies/movie3_cover.jpg",
+    "director": "هوشنگ گلمکانی",
+    "genre": [" درام ", " خانوادگی "],
+    "score": "۴.۳",
+    "description": "آهو حکایت انزوای خودخواسته دختری است که آرزوهایش را بر باد رفته می‌بیند، اما هنوز امیدش را از دست نداده است.",
+    "info": "بالای ۱۵ سال - یک ساعت و ۳۱ دقیقه - محصول ایران - ۱۳۹۹ - کیفیت HD"
+  },
+  {
+    "id": "4",
+    "title": "قدغن",
+    "image": "../../../assets/images/popular-movies/movie4_card.jpg",
+    "cover": "../../../assets/images/popular-movies/movie4_cover.jpg",
+    "director": "مجید مافی",
+    "genre": [" درام ", " خانوادگی "],
+    "score": "۴.۸",
+    "description": "قدغن درباره ی بزه های اجتماعی و خانوادگی است که در بعضی خانواده ها خط قرمزها را می شکند. مرتضی و رفیقش که رابطه ای ...",
+    "info": "بالای ۱۵ سال - یک ساعت و ۲۷ دقیقه - محصول ایران - ۱۴۰۰ - کیفیت HD"
+  },
+  {
+    "id": "5",
+    "title": "کشتارگاه",
+    "image": "../../../assets/images/popular-movies/movie5_card.jpg",
+    "cover": "../../../assets/images/popular-movies/movie5_cover.jpg",
+    "director": "عباس امینی",
+    "genre": [" جنایی ", " درام "],
+    "score": "۵.۷",
+    "description": "«کشتارگاه» فیلمی در ژانر درام محصول سال 1398 است. فیلمبرداری این فیلم در بخش هایی از جنوب کشور، شهر آبادان و تهران انج...",
+    "info": "بالای ۱۸ سال - یک ساعت و ۴۱ دقیقه - محصول ایران - ۱۳۹۸ - کیفیت HD"
+  },
+  {
+    "id": "6",
+    "title": "شعله ور",
+    "image": "../../../assets/images/popular-movies/movie6_card.jpg",
+    "cover": "../../../assets/images/popular-movies/movie6_cover.jpg",
+    "director": "حمید نعمت الله",
+    "genre": [" درام "],
+    "score": "۵.۴",
+    "description": "فرید مرد میانسالی است که به قرص اعتیاد دارد .همسرش او را ترک کرده و رابطه اش با پسرش نیز چندان درخشان نیست. در این ش...",
+    "info": "بالای ۱۸ سال - یک ساعت و ۳۶ دقیقه - محصول ایران - ۱۳۹۵ - کیفیت HD"
+  }
+]

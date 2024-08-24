@@ -1,0 +1,344 @@
+[
+  {
+    "id": "1",
+    "title": "زخم کاری: انتقام",
+    "image": "../../../assets/images/popular-series/serie1_card.jpg",
+    "cover": "../../../assets/images/popular-series/serie1_cover.jpg",
+    "logo": "",
+    "director": "محمدحسین مهدویان",
+    "genre": [" درام ", " خانوادگی "],
+    "description": "طلوعی، پانی را تحت فشار قرار می‌دهد تا با مالک مصالحه کند، آن ها سعی دارند به هر ترتیبی که شده پول نروژی‌ها را از مالک پ...",
+    "episodes": [
+      {
+        "id": "1",
+        "season": "۳",
+        "episode": "۱",
+        "image": "../../../assets/images/popular-series/serie1-e1.jpg"
+      },
+      {
+        "id": "2",
+        "season": "۳",
+        "episode": "۲",
+        "image": "../../../assets/images/popular-series/serie1-e2.jpg"
+      },
+      {
+        "id": "3",
+        "season": "۳",
+        "episode": "۳",
+        "image": "../../../assets/images/popular-series/serie1-e3.jpg"
+      },
+      {
+        "id": "4",
+        "season": "۳",
+        "episode": "۴",
+        "image": "../../../assets/images/popular-series/serie1-e4.jpg"
+      },
+      {
+        "id": "5",
+        "season": "۳",
+        "episode": "۵",
+        "image": "../../../assets/images/popular-series/serie1-e5.jpg"
+      },
+      {
+        "id": "6",
+        "season": "۳",
+        "episode": "۶",
+        "image": "../../../assets/images/popular-series/serie1-e6.jpg"
+      },
+      {
+        "id": "7",
+        "season": "۳",
+        "episode": "۷",
+        "image": "../../../assets/images/popular-series/serie1-e7.jpg"
+      },
+      {
+        "id": "8",
+        "season": "۳",
+        "episode": "۸",
+        "image": "../../../assets/images/popular-series/serie1-e8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "قطب شمال",
+    "image": "../../../assets/images/popular-series/serie2_card.jpg",
+    "cover": "../../../assets/images/popular-series/serie2_cover.jpg",
+    "logo": "",
+    "director": "امین محمودی یکتا",
+    "genre": [" درام ", " عاشقانه "],
+    "description": "آرشام و صحرا همه چیز را برای زنده شدن خاطرات در حافظه ارغوان مهیا می کنند که سایه مرگ در مسیر آرشام سنگینی می کند و آخر...",
+    "episodes": [
+      {
+        "id": "1",
+        "season": "۱",
+        "episode": "۱",
+        "image": "../../../assets/images/popular-series/serie2-e1.jpg"
+      },
+      {
+        "id": "2",
+        "season": "۱",
+        "episode": "۲",
+        "image": "../../../assets/images/popular-series/serie2-e2.jpg"
+      },
+      {
+        "id": "3",
+        "season": "۱",
+        "episode": "۳",
+        "image": "../../../assets/images/popular-series/serie2-e3.jpg"
+      },
+      {
+        "id": "4",
+        "season": "۱",
+        "episode": "۴",
+        "image": "../../../assets/images/popular-series/serie2-e4.jpg"
+      },
+      {
+        "id": "5",
+        "season": "۱",
+        "episode": "۵",
+        "image": "../../../assets/images/popular-series/serie2-e5.jpg"
+      },
+      {
+        "id": "6",
+        "season": "۱",
+        "episode": "۶",
+        "image": "../../../assets/images/popular-series/serie2-e6.jpg"
+      },
+      {
+        "id": "7",
+        "season": "۱",
+        "episode": "۷",
+        "image": "../../../assets/images/popular-series/serie2-e7.jpg"
+      },
+      {
+        "id": "8",
+        "season": "۱",
+        "episode": "۸",
+        "image": "../../../assets/images/popular-series/serie2-e8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "جوکر ۲",
+    "image": "../../../assets/images/popular-series/serie3_card.jpg",
+    "cover": "../../../assets/images/popular-series/serie3_cover.jpg",
+    "logo": "",
+    "director": "احسان علیخانی",
+    "genre": [" کمدی ", " ریلیتی‌شو "],
+    "description": "کی می‌بره؟ کی از همه بیشتر تو فصل اول می‌خندونه و جوکر بازی میشه؟ در قسمت پنجم مجید مظفری به همه آموزش اسکی می‌ده. م...",
+    "episodes": [
+      {
+        "id": "1",
+        "season": "۲",
+        "episode": "۱",
+        "image": "../../../assets/images/popular-series/serie3-e1.jpg"
+      },
+      {
+        "id": "2",
+        "season": "۲",
+        "episode": "۲",
+        "image": "../../../assets/images/popular-series/serie3-e2.jpg"
+      },
+      {
+        "id": "3",
+        "season": "۲",
+        "episode": "۳",
+        "image": "../../../assets/images/popular-series/serie3-e3.jpg"
+      },
+      {
+        "id": "4",
+        "season": "۲",
+        "episode": "۴",
+        "image": "../../../assets/images/popular-series/serie3-e4.jpg"
+      },
+      {
+        "id": "5",
+        "season": "۲",
+        "episode": "۵",
+        "image": "../../../assets/images/popular-series/serie3-e5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "سپنج",
+    "image": "../../../assets/images/popular-series/serie4_card.jpg",
+    "cover": "../../../assets/images/popular-series/serie4_cover.jpg",
+    "logo": "",
+    "director": "",
+    "genre": [" تاک‌شو "],
+    "description": "در سپنج نوزده، دکتر ناصر مهدوی نویسنده و عرفان پژوه از یادآوری اعتماد به خالق و رحمت و قدرت او می گوید. سپنج دعوتی است به...",
+    "episodes": [
+      {
+        "id": "1",
+        "season": "۱",
+        "episode": "۱",
+        "image": "../../../assets/images/popular-series/serie4-e1.jpg"
+      },
+      {
+        "id": "2",
+        "season": "۱",
+        "episode": "۲",
+        "image": "../../../assets/images/popular-series/serie4-e2.jpg"
+      },
+      {
+        "id": "3",
+        "season": "۱",
+        "episode": "۳",
+        "image": "../../../assets/images/popular-series/serie4-e3.jpg"
+      },
+      {
+        "id": "4",
+        "season": "۱",
+        "episode": "۴",
+        "image": "../../../assets/images/popular-series/serie4-e4.jpg"
+      },
+      {
+        "id": "5",
+        "season": "۱",
+        "episode": "۵",
+        "image": "../../../assets/images/popular-series/serie4-e5.jpg"
+      },
+      {
+        "id": "6",
+        "season": "۱",
+        "episode": "۶",
+        "image": "../../../assets/images/popular-series/serie4-e6.jpg"
+      },
+      {
+        "id": "7",
+        "season": "۱",
+        "episode": "۷",
+        "image": "../../../assets/images/popular-series/serie4-e7.jpg"
+      },
+      {
+        "id": "8",
+        "season": "۱",
+        "episode": "۸",
+        "image": "../../../assets/images/popular-series/serie4-e8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "پسر دلفینی",
+    "image": "../../../assets/images/popular-series/serie5_card.jpg",
+    "cover": "../../../assets/images/popular-series/serie5_cover.jpg",
+    "logo": "",
+    "director": "رضا فصاحت",
+    "genre": [" انیمیشن ", " ماجراجویی "],
+    "description": "اختاپوسی لاغر توبه کرده و همرنگ اختاپوس بزرگ وارد دریا می شود. همه او را با اختاپوس اصلی اشتباه می گیرند و دردسرهای زیادی درست می شود...",
+    "episodes": [
+      {
+        "id": "1",
+        "season": "۱",
+        "episode": "۱",
+        "image": "../../../assets/images/popular-series/serie5-e1.jpg"
+      },
+      {
+        "id": "2",
+        "season": "۱",
+        "episode": "۲",
+        "image": "../../../assets/images/popular-series/serie5-e2.jpg"
+      },
+      {
+        "id": "3",
+        "season": "۱",
+        "episode": "۳",
+        "image": "../../../assets/images/popular-series/serie5-e3.jpg"
+      },
+      {
+        "id": "4",
+        "season": "۱",
+        "episode": "۴",
+        "image": "../../../assets/images/popular-series/serie5-e4.jpg"
+      },
+      {
+        "id": "5",
+        "season": "۱",
+        "episode": "۵",
+        "image": "../../../assets/images/popular-series/serie5-e5.jpg"
+      },
+      {
+        "id": "6",
+        "season": "۱",
+        "episode": "۶",
+        "image": "../../../assets/images/popular-series/serie5-e6.jpg"
+      },
+      {
+        "id": "7",
+        "season": "۱",
+        "episode": "۷",
+        "image": "../../../assets/images/popular-series/serie5-e7.jpg"
+      },
+      {
+        "id": "8",
+        "season": "۱",
+        "episode": "۸",
+        "image": "../../../assets/images/popular-series/serie5-e8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "صداتو",
+    "image": "../../../assets/images/popular-series/serie6_card.jpg",
+    "cover": "../../../assets/images/popular-series/serie6_cover.jpg",
+    "logo": "",
+    "director": "حامد جوادزاده",
+    "genre": [" ریلیتی‌شو ", " گیم‌شو "],
+    "description": "«صداتو»، یک مسابقه موسیقایی پرمعما و جذاب است که محسن کیایی با چهره ای متفاوت اجرای آن را به عهده دارد. چهره های آشنایی...",
+    "episodes": [
+      {
+        "id": "1",
+        "season": "۴",
+        "episode": "۱",
+        "image": "../../../assets/images/popular-series/serie6-e1.jpg"
+      },
+      {
+        "id": "2",
+        "season": "۴",
+        "episode": "۲",
+        "image": "../../../assets/images/popular-series/serie6-e2.jpg"
+      },
+      {
+        "id": "3",
+        "season": "۴",
+        "episode": "۳",
+        "image": "../../../assets/images/popular-series/serie6-e3.jpg"
+      },
+      {
+        "id": "4",
+        "season": "۴",
+        "episode": "۴",
+        "image": "../../../assets/images/popular-series/serie6-e4.jpg"
+      },
+      {
+        "id": "5",
+        "season": "۴",
+        "episode": "۵",
+        "image": "../../../assets/images/popular-series/serie6-e5.jpg"
+      },
+      {
+        "id": "6",
+        "season": "۴",
+        "episode": "۶",
+        "image": "../../../assets/images/popular-series/serie6-e6.jpg"
+      },
+      {
+        "id": "7",
+        "season": "۴",
+        "episode": "۷",
+        "image": "../../../assets/images/popular-series/serie6-e7.jpg"
+      },
+      {
+        "id": "8",
+        "season": "۴",
+        "episode": "۸",
+        "image": "../../../assets/images/popular-series/serie6-e8.jpg"
+      }
+    ]
+  }
+]
