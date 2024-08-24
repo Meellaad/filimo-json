@@ -1,37 +1,37 @@
 [
   {
     "id": "1",
-    "image": "../../../assets/images/slider/banner1.jpeg",
+    "image": "./../../../assets/images/slider/banner1.jpeg",
     "alt": "zakhme kari"
   },
   {
     "id": "2",
-    "image": "../../../assets/images/slider/banner2.jpeg",
+    "image": "./../../../assets/images/slider/banner2.jpeg",
     "alt": "havayi"
   },
   {
     "id": "3",
-    "image": "../../../assets/images/slider/banner3.jpeg",
+    "image": "./../../../assets/images/slider/banner3.jpeg",
     "alt": "shabhaye mafia"
   },
   {
     "id": "4",
-    "image": "../../../assets/images/slider/banner4.jpeg",
+    "image": "./../../../assets/images/slider/banner4.jpeg",
     "alt": "joker 2"
   },
   {
     "id": "5",
-    "image": "../../../assets/images/slider/banner5.jpeg",
+    "image": "./../../../assets/images/slider/banner5.jpeg",
     "alt": ""
   },
   {
     "id": "6",
-    "image": "../../../assets/images/slider/banner6.jpeg",
+    "image": "./../../../assets/images/slider/banner6.jpeg",
     "alt": ""
   },
   {
     "id": "7",
-    "image": "../../../assets/images/slider/banner7.jpeg",
+    "image": "./../../../assets/images/slider/banner7.jpeg",
     "alt": ""
   }
 ]
