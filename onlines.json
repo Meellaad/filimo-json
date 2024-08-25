@@ -1,35 +1,35 @@
 [
   {
     "id": "1",
-    "image": "../../../assets/images/online-cinema/cinema1.jpeg",
+    "image": "./assets/images/online-cinema/cinema1.jpeg",
     "title": "پالایشگاه",
     "director": "مهرداد خوشبخت",
     "genre": ["درام", "جنگی"]
   },
   {
     "id": "2",
-    "image": "../../../assets/images/online-cinema/cinema2.jpeg",
+    "image": "./assets/images/online-cinema/cinema2.jpeg",
     "title": "هاوایی",
     "director": "بهمن گودرزی",
     "genre": ["کمدی", "ماجراجویی"]
   },
   {
     "id": "3",
-    "image": "../../../assets/images/online-cinema/cinema3.jpeg",
+    "image": "./assets/images/online-cinema/cinema3.jpeg",
     "title": "آهو",
     "director": "هوشنگ گلمکانی",
     "genre": ["درام", "خانوادگی"]
   },
   {
     "id": "4",
-    "image": "../../../assets/images/online-cinema/cinema4.jpeg",
+    "image": "./assets/images/online-cinema/cinema4.jpeg",
     "title": "نگهبان شب",
     "director": "رضا میرکریمی",
     "genre": ["درام"]
   },
   {
     "id": "5",
-    "image": "../../../assets/images/online-cinema/cinema5.jpeg",
+    "image": "./assets/images/online-cinema/cinema5.jpeg",
     "title": "گیجگاه",
     "director": "عادل تبریزی",
     "genre": ["کمدی", "عاشقانه"]
