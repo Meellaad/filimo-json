@@ -1,37 +1,37 @@
 [
   {
     "id": "1",
-    "image": "https://github.com/Meellaad/Filimo-Website/blob/main/public/assets/images/free-contents/free1.jpeg",
+    "image": "../../../assets/images/free-contents/free1.jpeg",
     "title": "پایتخت ۵"
   },
   {
     "id": "2",
-    "image": "./../../../assets/images/free-contents/free2.jpeg",
+    "image": "../../../assets/images/free-contents/free2.jpeg",
     "title": "عقرب"
   },
   {
     "id": "3",
-    "image": "./../../../assets/images/free-contents/free3.jpeg",
+    "image": "../../../assets/images/free-contents/free3.jpeg",
     "title": "ملکه‌ی گدایان"
   },
   {
     "id": "4",
-    "image": "./../../../assets/images/free-contents/free4.jpeg",
+    "image": "../../../assets/images/free-contents/free4.jpeg",
     "title": "ویرانگر"
   },
   {
     "id": "5",
-    "image": "./../../../assets/images/free-contents/free5.jpeg",
+    "image": "../../../assets/images/free-contents/free5.jpeg",
     "title": "شاهرگ"
   },
   {
     "id": "6",
-    "image": "./../../../assets/images/free-contents/free6.jpeg",
+    "image": "../../../assets/images/free-contents/free6.jpeg",
     "title": "حماسه‌ی دره شیلر"
   },
   {
     "id": "7",
-    "image": "./../../../assets/images/free-contents/free7.jpeg",
+    "image": "../../../assets/images/free-contents/free7.jpeg",
     "title": "بالش‌ها"
   }
 ]
